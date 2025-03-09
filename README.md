@@ -1,3 +1,3 @@
 # aws-cendence
 
-![aws-cendence drawio](https://github.com/user-attachments/assets/254d5404-51c3-4dfe-a05b-215070d7c842)
+![aws-cendence drawio](https://github.com/user-attachments/assets/b7650a30-f5b2-4039-bc37-395013c96d6a)
