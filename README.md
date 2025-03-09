@@ -24,8 +24,11 @@ Throughout this project, I focused on:
 
 For this learning project, I built a complete infrastructure for a Transcendence application with:
 
-- Frontend service built with React
+- Frontend service built with Vite/ThreeJS
 - Authentication service using Django
+- Game service using Django
+- Matchmaking service using Django
+- Python AI service
 - PostgreSQL database service
 
 All components are containerized and deployed on AWS using:
